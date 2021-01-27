@@ -54,4 +54,4 @@ for(int i = 0 ;  i < n-1 ; i++)
 
 [selection sort]: https://github.com/voyager2005/java-sorting-techiniques/blob/main/selectionSort.java
 [bubble sort]: https://github.com/voyager2005/java-sorting-techiniques/blob/main/bubbleSort.java
-[Get current updates open issues and pull requests in this repository]: https://github.com/voyager2005/java-sorting-techiniques/pulse
+[Get current updates open issues and pull requests in this repository]: https://github.com/voyager2005/java-sorting-techiniques/pulse/monthly
