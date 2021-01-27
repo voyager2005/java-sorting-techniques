@@ -1,13 +1,13 @@
-# java-sorting-techiniques
+# java-sorting-techniques
 
-This REPO contains some commonly used **array sorting techiniques**
+This REPO contains some commonly used **array sorting techniques**
 <br />Please ⭐ this repository if you found it helpful so that more people can benifit from this code 😃. 
 <br />
 <br />
 **[Get current updates open issues and pull requests in this repository]**
 
 ## [selection sort]
-This is the selection sort techinique. You can find the whole program including accepting the array in this repo. 
+This is the selection sort technique. You can find the whole program including accepting the array in this repo. 
 ```
 //selection sort techinique
 for(int i = 0 ; i < n-1 ; i++)
@@ -34,7 +34,7 @@ for(int i = 0 ; i < n-1 ; i++)
 <img width="540" alt="image8 1 0" src="https://user-images.githubusercontent.com/76808676/105986897-861f0080-60c3-11eb-93eb-36d0b051011c.png">
 
 ## [bubble sort] 
-This is the bubble sort techinique. You can find the whole program including accepting the array in this repo. 
+This is the bubble sort technique. You can find the whole program including accepting the array in this repo. 
 ```
 //bubble sort techinique 
 for(int i = 0 ;  i < n-1 ; i++)
