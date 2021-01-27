@@ -1,7 +1,10 @@
 # java-sorting-techiniques
 
 This REPO contains some commonly used **array sorting techiniques**
-Please ⭐ this repository if you found it helpful so that more people can benifit from this code 😃. 
+<br />Please ⭐ this repository if you found it helpful so that more people can benifit from this code 😃. 
+<br />
+<br />
+**[Get current updates open issues and pull requests in this repository]**
 
 ## [selection sort]
 This is the selection sort techinique. You can find the whole program including accepting the array in this repo. 
@@ -51,3 +54,4 @@ for(int i = 0 ;  i < n-1 ; i++)
 
 [selection sort]: https://github.com/voyager2005/java-sorting-techiniques/blob/main/selectionSort.java
 [bubble sort]: https://github.com/voyager2005/java-sorting-techiniques/blob/main/bubbleSort.java
+[Get current updates open issues and pull requests in this repository]: https://github.com/voyager2005/java-sorting-techiniques/pulse
