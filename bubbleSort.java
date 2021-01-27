@@ -1,12 +1,3 @@
-package Techsparx.Arrays;
-
-
-/**
- * Write a description of class bubbleSort here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 import java.util.Scanner; 
 public class bubbleSort
 {
@@ -31,7 +22,7 @@ public class bubbleSort
             a[i] = sc.nextInt();
         }
         
-        //bubble sort
+        //bubble sort techinique 
         for(int i = 0 ;  i < n-1 ; i++)
         {
             for(int j = 0 ; j < n-i-1 ; j++)
