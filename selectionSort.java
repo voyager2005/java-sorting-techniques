@@ -1,12 +1,3 @@
-package Techsparx.Arrays;
-
-
-/**
- * Write a description of class selectionSort here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 import java.util.Scanner; 
 public class selectionSort
 {
@@ -31,7 +22,7 @@ public class selectionSort
             a[i] = sc.nextInt();
         }
         
-        //selection sort 
+        //selection sort techinique
         for(int i = 0 ; i < n-1 ; i++)
         {
             //initialization 
